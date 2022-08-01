@@ -1,0 +1,173 @@
+.btn-outline-success {
+    color: white;
+    border-color: white;
+}
+
+.btn-outline-success:hover {
+    background-color: blue;
+}
+
+.middle1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.text-center {
+    margin-bottom: 30px;
+}
+
+.d-block {
+    width: 500x;
+    height: 600px;
+}
+
+.logo {
+    width: 100px;
+    height: 40px;
+}
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.d-flex {
+    position: relative;
+    right: 200px;
+}
+
+.class-box {
+    width: 500px;
+    height: 40px;
+}
+
+.left {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.right {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.b {
+    color: white;
+}
+
+.b:hover {
+    color: blue;
+}
+
+.navbar {
+    height: 50px;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.card-text {
+    color: white;
+    text-align: center;
+}
+
+.card {
+    border: 3px solid black;
+}
+
+.card-box {
+    margin-bottom: 50px;
+}
+
+.my-image {
+    width: 800px;
+    height: 400px;
+}
+
+.my-text {
+    padding-bottom: 150px;
+    color: black;
+}
+
+h5 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.my-introduce {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: black;
+}
+
+.footer-head {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
+}
+
+.footer-first-image {
+    width: 100px;
+    height: 40px;
+}
+
+.footer-mid {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    color: white;
+}
+
+.content {
+    color: #9F9E9E;
+    list-style: none;
+    padding-left: 0px;
+    text-decoration-line: none;
+}
+
+.x {
+    padding-bottom: 3px;
+}
+
+.x:hover {
+    color: white;
+}
+
+.content2 {
+    padding-left: 0px;
+    list-style: none;
+    position: relative;
+    right: 8px;
+}
+
+.Family-image {
+    width: 20px;
+    height: 20px;
+}
+
+.y {
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.add {
+    border-bottom: 1px solid white;
+}
+
+.footer-tail {
+    color: white;
+    height: 25px;
+}
+
+.tail-image {
+    padding-bottom: 5px;
+    width: 22px;
+    height: 22px;
+}
